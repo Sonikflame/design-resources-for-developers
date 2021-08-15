@@ -1,11 +1,11 @@
-# Contributing Guidelines
+# Правила участия
 
-- Add single resource in one pull request as it will allow for easier review.
+- Добавьте один ресурс в один запрос на перенос, так как это упростит просмотр.
 
-- Pull request title should include resource name and resource section.
-  - Example: `[Tailwind CSS] -> [CSS Frameworks]`
+- Заголовок запроса на извлечение должен включать имя ресурса и раздел ресурса.
+   - Пример: `[Tailwind CSS] -> [CSS Frameworks]`
 
-- Provide a link to submitted resource in pull request comment section for easier access without copy paste.
-  - Example: `Link: https://tailwindcss.com/`
+- Предоставьте ссылку на представленный ресурс в разделе комментариев запроса на вытягивание для облегчения доступа без копирования и вставки.
+   - Пример: `Ссылка: https: // tailwindcss.com /`
 
-- Double check if the resource is truly free without any kind of hidden surprises.
+- Дважды проверьте, действительно ли ресурс бесплатный, без каких-либо скрытых сюрпризов.
