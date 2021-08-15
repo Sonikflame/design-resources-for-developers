@@ -1,5 +1,5 @@
 ![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+#### Пожалуйста, прочтите [`правила участия`](./contributing.md) перед отправкой новых ресурсов.
 
 ## Table of Contents
 
