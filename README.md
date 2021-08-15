@@ -1,7 +1,7 @@
-![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+![Баннер репозитория] (headerimage.png)
+#### Пожалуйста, прочтите [`правила участия`] (./contributing.md) перед отправкой новых ресурсов.
 
-## Table of Contents
+## Оглавление
 
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
